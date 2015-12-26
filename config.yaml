@@ -1,5 +1,8 @@
 title: "A Continuous Improvement Journal"
-baseurl: "http://replace-this-with-your-hugo-site.com/"
+baseurl: "http://mokagio.github.io/continuous-improvement-journal"
+
+# "canonify" URLs to avoid issues with GitHub pages and relative resources
+canonifyurls: true
 
 languageCode: "en-us"
 
