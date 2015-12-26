@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A Continuous Improvement Journal</title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <link>http://mokagio.github.io/continuous-improvement-journal/</link>
     <description>Recent content on A Continuous Improvement Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Dec 2015 07:19:04 +1100</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://mokagio.github.io/continuous-improvement-journal/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello World</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/2015-12-22-hello-world/</link>
+      <link>http://mokagio.github.io/continuous-improvement-journal/post/2015-12-22-hello-world/</link>
       <pubDate>Tue, 22 Dec 2015 07:19:04 +1100</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/2015-12-22-hello-world/</guid>
+      <guid>http://mokagio.github.io/continuous-improvement-journal/post/2015-12-22-hello-world/</guid>
       <description>&lt;p&gt;Today is my birthday and this blog is my present to myself. I have other things
 to do right now, but I decided to take some time to write this.&lt;/p&gt;
 
