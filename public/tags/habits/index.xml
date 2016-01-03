@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on A Continuous Improvement Journal</title>
-    <link>http://mokagio.github.io/continuous-improvement-journal/post/</link>
-    <description>Recent content in Posts on A Continuous Improvement Journal</description>
+    <title>Habits on A Continuous Improvement Journal</title>
+    <link>http://mokagio.github.io/continuous-improvement-journal/tags/habits/</link>
+    <description>Recent content in Habits on A Continuous Improvement Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Jan 2016 06:03:00 +1100</lastBuildDate>
-    <atom:link href="http://mokagio.github.io/continuous-improvement-journal/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://mokagio.github.io/continuous-improvement-journal/tags/habits/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>January 2016 Tiny Challenge: Money Tracking</title>
@@ -36,35 +36,6 @@ where to optimise.&lt;/p&gt;
 Google Spreadsheet.&lt;/p&gt;
 
 &lt;p&gt;I shall report next month.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Be the change you want to see in the world. -Gandhi&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>http://mokagio.github.io/continuous-improvement-journal/post/2015-12-22-hello-world/</link>
-      <pubDate>Tue, 22 Dec 2015 07:19:04 +1100</pubDate>
-      
-      <guid>http://mokagio.github.io/continuous-improvement-journal/post/2015-12-22-hello-world/</guid>
-      <description>&lt;p&gt;Today is my birthday and this blog is my present to myself. I have other things
-to do right now, but I decided to take some time to write this.&lt;/p&gt;
-
-&lt;p&gt;In the past every blog I started with a declaration of intents post like this
-one has always failed, but I think this time it will be different.&lt;/p&gt;
-
-&lt;p&gt;I have decided to write in this web journal to share my &lt;em&gt;continuous improvement journey&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;What I am trying to say is that I want to share all the little lessons learned,
-experiment, and retrospective of a journey with no destination but only one
-goal, always improving.&lt;/p&gt;
-
-&lt;p&gt;Right now I what I might write about is diet, habits, yoga sequences, exercises,
-opinions on books I read, quotes from podcasts I listen. As time goes on I think
-the content might change, as my journey moves onto different areas of focus.&lt;/p&gt;
-
-&lt;p&gt;I am sure I will get a lot of value from this writing practice, both in the
-form of future reference and thoughts consolidation and retrospective.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Be the change you want to see in the world. -Gandhi&lt;/em&gt;&lt;/p&gt;
 </description>
